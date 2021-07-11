@@ -1,0 +1,10 @@
+{
+    "remote.extensionKind": {
+        "scala-lang.scala": [
+            "workspace"
+        ]
+    },
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}

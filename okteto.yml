@@ -1,0 +1,8 @@
+name: scala
+autocreate: true
+image: quay.io/narendev/scala
+command: fish
+sync:
+- .:/usr/src/app
+forward:
+- 8080:8080
